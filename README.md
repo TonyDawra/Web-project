@@ -11,7 +11,21 @@ These instructions will help you get a copy of the project up and running on you
 Ensure you have the following software installed:
 
 - Node.js: [Download Node.js](https://nodejs.org/)
-
+- Node packages:
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsdom": "^22.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.4",
+    "mysql2": "^3.6.2",
+    "node-wav-player": "^0.2.0",
+    "nodemon": "^3.0.1",
+    "readline": "^1.3.0"
+  
 ### Installation
 
 1. Clone the repository:
@@ -20,6 +34,10 @@ Ensure you have the following software installed:
    git clone https://github.com/your-username/your-repository.git
 ```
 2. start the server
+```bash
+   npm run dev
 ```
-npm run dev
-```
+3. Try the game
+   download an extension in vs code called live server
+   Right click on the html of the game and press open live server and enjoy
+
