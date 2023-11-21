@@ -35,7 +35,7 @@ Ensure you have the following software and packages installed:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone [https://github.com/your-username/your-repository.git](https://github.com/TonyDawra/Web-project.git)
 ```
 2. start the server
 ```bash
