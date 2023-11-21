@@ -19,7 +19,6 @@ Ensure you have the following software installed:
 ```bash
    git clone https://github.com/your-username/your-repository.git
 ```
-```
 2. start the server
 ```
 npm run dev
