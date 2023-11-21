@@ -1,6 +1,10 @@
 # Web Project Tony Dawra
 
-Brief description of your web game project.
+This repository contains the backend code for the server of a game website, providing a competitive and fun environment for gaming enthusiasts. The server includes a leaderboard for the current game, and more games will be added in the future based on user feedback so mae sure to like or dislike.
+
+## Purpose
+
+I am a gamer who enjoys spending my free time playing games. I created this website with the sole purpose of entertaining people who share a love for games, providing a source of enjoyment for those who are bored and looking for something to do
 
 ## Getting Started
 
@@ -8,7 +12,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-Ensure you have the following software installed:
+Ensure you have the following software and packages installed:
 
 - Node.js: [Download Node.js](https://nodejs.org/)
 - Node packages:
